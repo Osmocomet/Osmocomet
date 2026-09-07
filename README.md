@@ -4,4 +4,4 @@ Infrastructure / systems engineer focused on Linux, networking, observability an
 
 ### Open source
 
-- Grafana — `grafana/grafana#131848`
+- [Grafana #131848](https://github.com/grafana/grafana/pull/131848) — Forward SSL certificate environment variables to plugins
